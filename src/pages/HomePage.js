@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import BlogList from '../components/BlogList';
-import CategorySidebar from '/components/CategorySidebar';
+import CategorySidebar from '../components/CategorySidebar';
 import { Grid, Typography, Container } from '@mui/material';
 
 const HomePage = () => {
